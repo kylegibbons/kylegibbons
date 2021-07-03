@@ -11,6 +11,7 @@ I am a fullstack software engineer from Massachusetts
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_kylegibbons)
 
 <br>
+<br>
 
 ## Expertise
 
@@ -19,15 +20,17 @@ I am a fullstack software engineer from Massachusetts
 <img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-%2320232a.svg?&style=for-the-badge&logo=sass" />
 <img align="left" alt="kubernetes" src="https://img.shields.io/badge/kuberentes%20-%2320232a.svg?&style=for-the-badge&logo=kubernetes" />
 <img align="left" alt="powershell" src="https://img.shields.io/badge/powershell%20-%2320232a.svg?&style=for-the-badge&logo=powershell" />
-<img align="left" alt="material design" src="https://img.shields.io/badge/material%20design%20-%2320232a.svg?&style=for-the-badge&logo=materialdesign&logoColor=white" />
-<img align="left" alt="dgraph" src="https://img.shields.io/badge/dgraph%20-%2320232a.svg?&style=for-the-badge&logo=dgraph" /><br><br>
+<img align="left" alt="material design" src="https://img.shields.io/badge/material%20design%20-%2320232a.svg?&style=for-the-badge&logo=materialdesign&logoColor=white" /><br /><br />
+<img align="left" alt="dgraph" src="https://img.shields.io/badge/dgraph%20-%2320232a.svg?&style=for-the-badge&logo=dgraph" />
 <img align="left" alt="windows server" src="https://img.shields.io/badge/windows%20server%20-%2320232a.svg?&style=for-the-badge&logo=windows" />
 <img align="left" alt="rabbitmq" src="https://img.shields.io/badge/rabbitmq%20-%2320232a.svg?&style=for-the-badge&logo=rabbitmq" />
 <img align="left" alt="docker" src="https://img.shields.io/badge/docker%20-%2320232a.svg?&style=for-the-badge&logo=docker" />
 <img align="left" alt="diagrams.net" src="https://img.shields.io/badge/diagrams.net%20-%2320232a.svg?&style=for-the-badge&logo=diagramsdotnet" />
-<img align="left" alt="prometheus" src="https://img.shields.io/badge/prometheus%20-%2320232a.svg?&style=for-the-badge&logo=prometheus" />
+<img align="left" alt="prometheus" src="https://img.shields.io/badge/prometheus%20-%2320232a.svg?&style=for-the-badge&logo=prometheus" /><br /><br />
 <img align="left" alt="grafana" src="https://img.shields.io/badge/grafana%20-%2320232a.svg?&style=for-the-badge&logo=grafana" />
+<img align="left" alt="home assistant" src="https://img.shields.io/badge/home%20 assistant%20-%2320232a.svg?&style=for-the-badge&logo=homeassistant" />
 
+<br>
 <br>
 
 ## Tech I am learning
@@ -37,6 +40,7 @@ I am a fullstack software engineer from Massachusetts
 <img align="left" alt="drone" src="https://img.shields.io/badge/drone%20-%2320232a.svg?&style=for-the-badge&logo=drone" />
 <img align="left" alt="argo" src="https://img.shields.io/badge/argo%20-%2320232a.svg?&style=for-the-badge&logo=argo" />
 <img align="left" alt="graphql" src="https://img.shields.io/badge/graphql%20-%2320232a.svg?&style=for-the-badge&logo=graphql" />
+<img align="left" alt="harbor" src="https://img.shields.io/badge/harbor%20-%2320232a.svg?&style=for-the-badge&logo=harbor" />
 
 
 <br>
