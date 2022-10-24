@@ -1,33 +1,30 @@
 ---
 title: "Pro A/V"
 date: 2020-09-15T11:30:03+00:00
-# weight: 1
+weight: 3
 # aliases: ["/first"]
 tags: ["resume","professional a/v"]
 
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "Desc Text."
-# canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-    image: "kyle_fire.jpg" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+# cover:
+#     image: "kyle_fire.jpg" # image path/url
+#     alt: "<alt text>" # alt text
+#     caption: "<text>" # display caption under cover
+#     relative: false # when using page bundles set this to true
+#     hidden: false # only hide on current single page
 ---
 Sint duis occaecat velit cupidatat culpa. Deserunt elit culpa aliqua excepteur in sit ipsum id. Laboris id sit ex nisi labore pariatur consectetur labore. In ex ut nulla eiusmod consequat ullamco tempor quis tempor voluptate duis irure sint officia mollit. Deserunt anim do dolore excepteur eu minim eu Lorem dolor fugiat voluptate exercitation tempor.
 Minim in nostrud dolore esse. Ex cillum anim minim ex nisi do labore sint exercitation do deserunt. Consectetur enim dolor esse consequat proident ad proident est aliqua excepteur. Aliquip non sunt consectetur nisi labore velit duis ex.

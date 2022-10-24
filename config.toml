@@ -25,7 +25,7 @@ defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = false
 ShowShareButtons = true
-ShowPostNavLinks = true
+ShowPostNavLinks = false
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = false
 ShowWordCount = false
@@ -62,15 +62,15 @@ tocopen = false
 
     [[params.profileMode.buttons]]
     name = "Resume"
-    url = "resume"
+    url = "resume/it"
 
-    [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "posts"
+    # [[params.profileMode.buttons]]
+    # name = "Posts"
+    # url = "posts"
 
-    [[params.profileMode.buttons]]
-    name = "Tags"
-    url = "tags"
+    # [[params.profileMode.buttons]]
+    # name = "Tags"
+    # url = "tags"
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
@@ -111,17 +111,17 @@ SiteVerificationTag = "XYZabc"
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
-[[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
-weight = 10
+# [[menu.main]]
+# identifier = "categories"
+# name = "categories"
+# url = "/categories/"
+# weight = 10
 
-[[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
-weight = 20
+# [[menu.main]]
+# identifier = "tags"
+# name = "tags"
+# url = "/tags/"
+# weight = 20
 
 # [[menu.main]]
 # identifier = "example"
