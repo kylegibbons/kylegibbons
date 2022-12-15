@@ -79,6 +79,10 @@ tocopen = false
   [[params.socialIcons]]
   name = "twitter"
   url = "https://twitter.com/_kylegibbons"
+  
+  [[params.socialIcons]]
+  name = "mastadon"
+  url = "https://mastodon.social/@_kylegibbons"
 
   [[params.socialIcons]]
   name = "stackoverflow"
