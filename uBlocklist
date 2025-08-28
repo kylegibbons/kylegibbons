@@ -1,0 +1,33 @@
+name: GN SearXNG
+homepage: https://github.com/kylegibbons//kylegibbons/uBlocklist
+lastModified: 2025-08-28T07:00:00Z
+
+pages:
+  - name: All
+    includeRegex: "/search(\\?|$)"
+    results:
+      - root: .category-general
+        url: a
+        props:
+          title: h3
+          $category: [const, "web"]
+      - root: .category-images
+        url: .result-url > a
+        props:
+          title: .title
+          $category: [const, "images"]
+      - root: .category-videos
+        url: a
+        props:
+          title: h3
+          $category: [const, "videos"]
+      - root: .category-news
+        url: a
+        props:
+          title: h3
+          $category: [const, "news"]
+    commonProps:
+      $site: searx # backwards compatibility
+    matches:
+      - https://search.gibb.network/*
+    
